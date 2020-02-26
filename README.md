@@ -1,2 +1,3 @@
 # Rainbow-Song-
-Asong about ranbows. 
+
+Asong about ranbows in the key of C major
